@@ -1,4 +1,4 @@
-// import './App.css';
+import './App.css';
 import Home from './Components/Home/Home';
 import LoginPage from './Components/LoginPage/LoginPage';
 
